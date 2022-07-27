@@ -1,0 +1,40 @@
+
+    "results": [
+        {
+            "title": "Aa New Hope", 
+            "episode_id": 4, 
+            "img": "https://kbimages1-a.akamaihd.net/Images/194c814f-7c93-499e-adde-6447e4d6fe39/255/400/False/image.jpg", 
+            "url": "https://swapi.dev/api/films/1/"
+        }, 
+        {
+            "title": "The Empire Strikes Back", 
+            "episode_id": 5, 
+            "img": "https://m.media-amazon.com/images/I/51rHfst51TL._AC_SY1000_.jpg",
+            "url": "https://swapi.dev/api/films/2/"
+        }, 
+        {
+            "title": "Return of the Jedi", 
+            "episode_id": 6, 
+            "img": "https://m.media-amazon.com/images/I/51xQHKh6wwL._AC_SY1000_.jpg", 
+            "url": "https://swapi.dev/api/films/3/"
+        }, 
+        {
+            "title": "The Phantom Menace", 
+            "episode_id": 1, 
+            "img": "https://img-pttavm.mncdn.com/pimages/592/091/514/620b5ff7564bf.jpg?v=201910111528", 
+            "url": "https://swapi.dev/api/films/4/"
+        }, 
+        {
+            "title": "Attack of the Clones", 
+            "episode_id": 2, 
+            "img": "https://m.media-amazon.com/images/I/512K7WkyZKL._AC_SY1000_.jpg", 
+            "url": "https://swapi.dev/api/films/5/"
+        }, 
+        {
+            "title": "Revenge of the Sith", 
+            "episode_id": 3, 
+           "img": "https://kbimages1-a.akamaihd.net/50a779f5-b8a1-4deb-b0ab-254083eb2df1/353/569/90/False/revenge-of-the-sith-star-wars-episode-iii.jpg", 
+            "url": "https://swapi.dev/api/films/6/"
+        }
+    ]
+}
